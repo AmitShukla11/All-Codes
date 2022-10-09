@@ -1,5 +1,4 @@
-class Solution {
-public:
+
     string longestCommonPrefix(vector<string>& str) {
           int n = str.size();
         if(n==0) return "";
@@ -20,5 +19,5 @@ public:
         
         return ans;
     }
-};
+
 
