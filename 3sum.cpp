@@ -1,5 +1,4 @@
-class Solution {
-public:
+
     int threeSumClosest(vector<int>& v, int t) 
     {
         int n = v.size(), res = INT_MAX;
@@ -21,4 +20,3 @@ public:
         }
         return res;
     }
-};
