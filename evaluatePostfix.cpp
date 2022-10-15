@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cctype>
 #include <vector>
 #include <stack>
 using namespace std;
